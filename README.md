@@ -1,3 +1,4 @@
-# HASH-FRAMEWORK
-Hash is a powerful PHP framework for easy front end development of websites using Bootstrap 3.0
+Hash PHP FRAMEWORK
+=========
 
+A framework for anyone to make a quick easy php website with a Bootstrap 3.0 Frontend.
